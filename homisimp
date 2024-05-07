@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>É MESMO É</title>
+    <style>
+        div {
+            display: flex;
+            justify-content: center;
+        }
+        img {
+            width: 69%;
+        }
+        figure {
+            text-align: center;
+        }
+        figcaption {
+            font-size: 18px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <figure>
+            <img src="HOMER.jpg" alt="HOMER SIMP" title="IMAGEM DO HOMI FALANDO É MESMO É">
+            <figcaption>IMAGEM DO HOMI FALANDO É MESMO É</figcaption>
+        </figure>
+    </div>
+</body>
+</html>
